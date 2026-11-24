@@ -1,5 +1,6 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
-### DATE: 
+### REG NO: 212225230241
+### DATE: 21-11-2026
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
@@ -73,5 +74,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
     print("The highest rank cosine score is:", highest_rank_score)
 
 ### Output:
+<img width="959" height="599" alt="WhatsApp Image 2026-11-24 at 4 02 35 PM" src="https://github.com/user-attachments/assets/6ff1853f-7964-4cb0-ac59-367b931a76cd" />
 
 ### Result:
+Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
